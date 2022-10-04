@@ -25,10 +25,7 @@
       "description": "your api hash, take it from my.telegram.org",
       "value": "34a0b2551aacd866c3729f7044525353"
     },
-    "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001592927683"
-    },
+    
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "-1001557431626"
